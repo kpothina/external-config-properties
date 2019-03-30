@@ -1,0 +1,3 @@
+limits-service.prop:
+  minimum: 7
+  maximum: 7000
